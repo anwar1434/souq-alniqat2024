@@ -1,6 +1,6 @@
 "use client";
 import BottonForm from "./BottonForm";
-import styles from "./styles/loginForm.module.css";
+import styles from "@/app/component/styles/LoginForm.module.css"
 import Loading from "../loading";
 import Message from "./Message";
 import { useRouter } from "next/navigation";
