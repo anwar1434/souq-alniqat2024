@@ -1,4 +1,4 @@
-// File: D:\Web\Next.Js\souq-al-noqit\src\app\SouqAlNoqit\[id]\order\page.tsx
+// File: C:\Users\anwar\OneDrive\Desktop\souq-alniqat2024\souq-al-noqit\src\app\SouqAlNoqit\[id]\order\page.tsx
 import * as entry from '../../../../../../src/app/SouqAlNoqit/[id]/order/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
